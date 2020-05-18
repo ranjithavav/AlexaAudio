@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import subprocess
 c = open("url","r")
 a = 97
