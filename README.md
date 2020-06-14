@@ -14,7 +14,7 @@ Provide file execution permission
 chmod +x python.py
 
 step4:
-add youtube urls for download and convert
+add youtube urls for audio download
 
 step5:
 open Terminal and change to saved file directory
@@ -22,7 +22,7 @@ open Terminal and change to saved file directory
 step6:
 type below command in bash terminal
 
-python3 python.py
+./python.py
 
 step7:
 all the files will download like a.mp3,b.mp3,c.mp3....on the same directory
